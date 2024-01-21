@@ -6,11 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-<<<<<<< HEAD
-            "heading": "Browse our latest products ide edditor",
-=======
-            "heading": "Browse our latest products costumize2",
->>>>>>> origin/main
+            "heading": "Browse our latest products ide edditor2",
             "heading_size": "h0"
           }
         },
@@ -18,7 +14,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -26,10 +22,7 @@
           }
         }
       },
-      "block_order": [
-        "heading",
-        "button"
-      ],
+      "block_order": ["heading", "button"],
       "settings": {
         "image_overlay_opacity": 40,
         "image_height": "large",
@@ -72,8 +65,5 @@
       }
     }
   },
-  "order": [
-    "image_banner",
-    "featured_collection"
-  ]
+  "order": ["image_banner", "featured_collection"]
 }
