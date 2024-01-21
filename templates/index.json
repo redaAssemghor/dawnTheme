@@ -6,7 +6,11 @@
         "heading": {
           "type": "heading",
           "settings": {
+<<<<<<< HEAD
             "heading": "Browse our latest products ide edditor",
+=======
+            "heading": "Browse our latest products costumize2",
+>>>>>>> origin/main
             "heading_size": "h0"
           }
         },
